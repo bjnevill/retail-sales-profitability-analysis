@@ -25,3 +25,17 @@ This repository currently contains a project overview. The original workbook and
 ## Relevance
 
 Practising sales, margin and other KPI reporting provides a foundation for finance operations and business analytics roles.
+
+## Dashboard preview and findings
+
+The completed **Stynoox CEO Dashboard** (Excel) includes:
+
+- **S$5,311,229 revenue**, **55.34% displayed profit margin**, **20 stores** and **1,197 unique customers** from the sample dataset.
+- Year selector for 2020–2025.
+- Customer revenue and membership trends.
+- Supplier dependency by brand and product category.
+- Store-level sales performance and brand revenue rankings.
+
+The original workbook includes interactive Excel elements. Dashboard screenshots and the original workbook have been provided for portfolio preparation; source files may still need to be uploaded to GitHub separately.
+
+*All figures reflect the academic case-study data, not a real company disclosure.*
