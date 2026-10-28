@@ -1,41 +1,23 @@
-# Retail Sales & Profitability Analysis (Excel)
+# Retail Sales and Profitability Analysis
 
-**Ngee Ann Polytechnic · Diploma in Data Science · Data Science Fundamentals · Academic assignment (2025)**
+Excel academic coursework · Ngee Ann Polytechnic · Diploma in Data Science
 
-An Excel-based analysis of retail sales and purchasing data from the *Stynoox* coursework dataset. The assignment involved working with sales, purchases, product, supplier and master-data tables to understand business performance.
+## Business problem
 
-## Focus
+Explore sales, purchasing and product information in the Stynoox teaching case to support retail performance and profitability reporting.
 
-- Examine transactional retail data using Excel.
-- Organise source data and explore business metrics.
-- Present sales and profitability measures in a dashboard for easier interpretation.
+## Approach and tools
 
-## Dashboard highlights
+The existing project overview describes Excel analysis of sales, purchase, product, supplier and master-data tables, with dashboard views for sales, margins, customer trends, supplier dependence and store performance.
 
-The submitted assignment dashboard displays approximately **5.31 million in sales** and a **55.34% profit margin**. These are **figures reported in the classroom dataset**, not actual company results.
+Skills represented: Microsoft Excel, spreadsheet analysis, business KPI reporting and data visualisation.
 
-## Tools and skills
+## Evidence and file availability
 
-Microsoft Excel · Spreadsheet Analysis · Business KPIs · Data Visualisation · Sales and Profitability Reporting
+This repository contains documentation only. The original Excel workbook, datasets, report and dashboard screenshots are **not published here**, and no matching originals were found in the permitted Ngee Ann Semester 2, 3 or 4 folders during the portfolio review.
 
-## Source files and limitations
+Consequently, workbook formulas, filters, financial definitions and results cannot be independently verified from this repository. Previously listed numerical results have been omitted from this overview until supporting evidence is available. There is no runnable dashboard or preview to download, and no Python requirements file is needed for this Excel project.
 
-This repository currently contains a project overview. The original workbook and any shareable dataset extracts will be added only after checking the files for personal, proprietary or restricted material. Numbers and outputs are based on academic coursework.
+## Limitations and relevance
 
-## Relevance
-
-Practising sales, margin and other KPI reporting provides a foundation for finance operations and business analytics roles.
-
-## Dashboard preview and findings
-
-The completed **Stynoox CEO Dashboard** (Excel) includes:
-
-- **S$5,311,229 revenue**, **55.34% displayed profit margin**, **20 stores** and **1,197 unique customers** from the sample dataset.
-- Year selector for 2020–2025.
-- Customer revenue and membership trends.
-- Supplier dependency by brand and product category.
-- Store-level sales performance and brand revenue rankings.
-
-The original workbook includes interactive Excel elements. Dashboard screenshots and the original workbook have been provided for portfolio preparation; source files may still need to be uploaded to GitHub separately.
-
-*All figures reflect the academic case-study data, not a real company disclosure.*
+This is an academic case study. It demonstrates the intended application of sales and margin reporting to business decisions; it does not establish commercial impact. The repository’s current evidence is less complete than the Power BI, SAP and Python projects linked from [my profile](https://github.com/bjnevill).
